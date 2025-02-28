@@ -1,13 +1,13 @@
 # jogo-megamen
 ---
-## Deploy: [megamen-game](https://jowcodesoftware.github.io/jogo-megamen/)
+## Deploy: [🌐megamen-game](https://jowcodesoftware.github.io/jogo-megamen/)
 ---
 ## 🗺️ Instruções para o jogo;
 ## 🎮 Utilize qualquer tecla para a função jump;
 <img src="./assets/images/mario.gif">
 
 ## Créditos: 
-[jowcode-software](https://github.com/jowcodesoftware)
+[🌐jowcode-software](https://github.com/jowcodesoftware)
 ---
 ### Tecnologias utilizada:
 
