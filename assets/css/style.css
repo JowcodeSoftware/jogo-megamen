@@ -152,7 +152,7 @@ transition: 0.3s;
         right: 100%;
     }
 }
-@keyframes clouds1{
+@keyframes clouds{
     from{
         right: -550px;
 
@@ -161,7 +161,7 @@ transition: 0.3s;
         right: 100%;
     }
 }
-}@keyframes clouds2{
+}@keyframes clouds1{
     from{
         right: -150px;
 
